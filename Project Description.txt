@@ -4,4 +4,4 @@ Has an interactive Feedback Section as well. As per current trends is mobile res
 
 Future Scope including AI, VR and AR Features.
 
-Link to my website: http://alpinelodge.ga/
+The website used to be online, but that deployment no longer exists. See README.md for how to run it locally.
